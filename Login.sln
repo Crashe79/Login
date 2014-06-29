@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.Business", "login.Business\Login.Business.csproj", "{DB4A6F4F-1AC5-4525-A68E-A9C5A69FBA34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.Repository", "login.Repository\Login.Repository.csproj", "{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.Services", "login.Services\Login.Services.csproj", "{CBBE82B7-04AB-4D0D-B03E-207974ACEFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.Repository", "Login.Repository\Login.Repository.csproj", "{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{DB4A6F4F-1AC5-4525-A68E-A9C5A69FBA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB4A6F4F-1AC5-4525-A68E-A9C5A69FBA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB4A6F4F-1AC5-4525-A68E-A9C5A69FBA34}.Release|Any CPU.Build.0 = Release|Any CPU
-		{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CBBE82B7-04AB-4D0D-B03E-207974ACEFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CBBE82B7-04AB-4D0D-B03E-207974ACEFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBBE82B7-04AB-4D0D-B03E-207974ACEFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBBE82B7-04AB-4D0D-B03E-207974ACEFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323A64B6-C498-449F-A5E9-3C91A1BC7C2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
