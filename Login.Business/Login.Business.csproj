@@ -84,6 +84,7 @@
     <Compile Include="Cryptography\Md5Manager.cs" />
     <Compile Include="Cryptography\PasswordManager.cs" />
     <Compile Include="Cryptography\Sha256Manager.cs" />
+    <Compile Include="Model\LoginModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

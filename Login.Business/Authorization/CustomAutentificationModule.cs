@@ -15,6 +15,7 @@ namespace Login.Business.Authorization
 
         public void Dispose()
         {
+           
         }
 
         private static void OnAuthenticateRequest(object sender, EventArgs e)
