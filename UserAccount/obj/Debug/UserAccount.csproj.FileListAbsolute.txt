@@ -1,5 +1,0 @@
-E:\webrunes\Work\Dlls\UserAccount.dll
-E:\webrunes\Work\Dlls\UserAccount.pdb
-E:\webrunes\UserAccount\UserAccount\obj\Debug\UserAccount.dll
-E:\webrunes\UserAccount\UserAccount\obj\Debug\UserAccount.pdb
-e:\webrunes\UserAccount\UserAccount\obj\Debug\UserAccount.csprojResolveAssemblyReference.cache
